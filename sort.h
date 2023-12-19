@@ -30,6 +30,8 @@ void bubble_sort(int *array, size_t size);
 void swapper(int *a, int *b);
 void insertion_sort_list(listint_t **list);
 void swap_nodes(listint_t **list, listint_t *node1, listint_t *node2);
+void selection_sort(int *array, size_t size);
+
 
 
 
